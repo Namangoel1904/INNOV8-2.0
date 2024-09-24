@@ -17,7 +17,7 @@ For Example: `prob_betrayal += (wealth_score <= 3) * 0.1` the snippet code shows
 In the similar manner we can define the probability distributions for other paramenters and set their weightage accordingly to generate a dataset **closer to actual picture**
 *Hit and Trial with fine tweeks is the key for the best sybthetic Dataset*
 
-Now once we are satisfied with the [Synthetic_Betrayal_Data](https://github.com/Namangoel1904/Being-Notified/blob/main/Innov8%202.0/synthetic_betrayal_data.csv) we can move to
+Now once we are satisfied with the [Synthetic_Betrayal_Data](https://github.com/Namangoel1904/INNOV8-2.0/blob/7f43556becf91f68b09e8253d9e6574427e5e091/synthetic_betrayal_data.csv) we can move to
 ## **Preprocessing** of the data and **Model Building**
 Since there are **no missing values** in our dataset we **don't need to use any encoding methos** to fill those gaps.
 Out **dataset contains numerical values only** and so label encoding or count vectorization methods are also not required.
